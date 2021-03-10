@@ -1,0 +1,22 @@
+{
+    "front-image": "front.png",
+    "hidden-image": "back.png",
+    "layouts": [
+        {
+            "type": "simple",
+            "texts": [
+                {
+                    "source": "cards.txt",
+                    "x": 80,
+                    "y": 80,
+                    "width": 540,
+                    "height": 850,
+                    "color": "#000000",
+                    "font-face": "Liberation Sans",
+                    "font-size": 70,
+                    "font-weight": "bold"
+                }
+            ]
+        }
+    ]
+}
